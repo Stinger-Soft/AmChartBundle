@@ -13,5 +13,5 @@ namespace StingerSoft\AmChartBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class StingerSoftAmchartBundle extends Bundle {
+class StingerSoftAmChartBundle extends Bundle {
 }
